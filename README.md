@@ -4,4 +4,5 @@
 
 
 ============最近更新===============
-https:github.com/nirvana0101/qwen3_mcp #集成千问，使用mcp工具自动完成本地数据库增删查改，爬取网页，自动完成分析报告
+https:github.com/nirvana0101/qwen3_mcp 
+#集成千问，使用mcp工具自动完成本地数据库增删查改，爬取网页，自动完成分析报告
